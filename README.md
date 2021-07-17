@@ -9,3 +9,4 @@
 5. Check your LinkedIN Feed.
 
 Note- This application works only with company pages of LinkedIn and should have enabled developer's tool.
+      https://www.linkedin.com/developers/products
